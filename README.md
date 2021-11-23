@@ -3,7 +3,7 @@
  
  # 👋 Hi, I’m Vrushabh!
  
- I'm an engineering graduate specialising in Electronics Engineering also I'm passionate about Data Science, Machine Learning & Deep Learning. I'm well-versed in extracting 
+ I'm an engineering graduate specialized in Electronics Engineering also I'm passionate about Data Science, Machine Learning & Deep Learning. I'm well-versed in extracting 
  insights from data by asking the right questions & helping organizations make effective business decisions. I enjoy solving real-world machine learning problems and learning 
  new technologies. 
  
